@@ -17,6 +17,6 @@ Below is the breadboard prototype.
 
 ## Software
 
-The code for the Arduino can be found in the `mc-src` folder. The communicates with a Python application. The computer application graphs the data in real time.
+The code for the Arduino can be found in the `mc-src` folder. The Arduino communicates with a Python application. The computer application graphs the data in real time.
 
 ![](images/software.png)
